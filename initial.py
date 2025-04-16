@@ -1,6 +1,6 @@
-password = '***REMOVED***'
-api_key = '***REMOVED***'
-# senha ***REMOVED*** e chave ***REMOVED***
+password = ''
+api_key = ''
+# senha  e chave 
 
-new_password = '***REMOVED***'
-other_key='***REMOVED***'
+new_password = ''
+other_key=''

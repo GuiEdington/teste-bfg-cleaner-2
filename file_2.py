@@ -1,2 +1,2 @@
-password = '***REMOVED***'
-new_password = '***REMOVED***'
+password = ''
+new_password = ''
